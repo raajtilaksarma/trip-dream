@@ -1,9 +1,9 @@
 # trip-dream
 A Flask web app to give frame wise tripified (google deep dream inception model) output of webcam input stream
 
-### Example
+### Example output
 
-
+![your_image](https://github.com/raajtilaksarma/trip-dream/blob/master/trip-dream.png)
 
 ### Usage
 
