@@ -1,7 +1,7 @@
 Flask==1.1.1
 opencv-python==4.1.0.25
 zipfile36==0.1.3
-tensorflow==1.15.2
+tensorflow==2.5.1
 urllib3==1.25.3
 matplotlib==3.0.3
 pillow>=6.2.0
